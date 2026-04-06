@@ -190,4 +190,4 @@ Each example in this repo maps to an article in Series 2 of the book
 **Sameer Shukla** — Director of Data & AI Architecture
 
 Writing about AI, data engineering, and building production systems.
-Apache Airflow Contributor of the Month · 50+ technical articles published.
+
