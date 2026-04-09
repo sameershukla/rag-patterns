@@ -1,0 +1,22 @@
+# LangChain core
+langchain>=0.3.0
+langchain-core>=0.3.0
+
+# Anthropic integration for LangChain
+langchain-anthropic>=0.3.0
+
+# Community integrations (FAISS, HuggingFace embeddings)
+langchain-community>=0.3.0
+
+# Vector store
+faiss-cpu>=1.8.0
+
+# Embedding model — runs locally, no API key needed
+sentence-transformers>=3.0.0
+
+# Required by sentence-transformers
+numpy>=1.26.0
+
+# Anthropic SDK — used directly in non-LangChain examples
+anthropic>=0.40.0
+langchain-text-splitters>=0.3.0
